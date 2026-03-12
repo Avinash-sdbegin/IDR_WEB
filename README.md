@@ -115,8 +115,8 @@ IDR_WEB/
 ## 👨‍💻 Author
 
 **Avinash Kumar**  
-B.Tech – Computer Science and Engineering (DSAI)
-Indian Institute of Information Technology, Ranchi
+- B.Tech – Computer Science and Engineering (DSAI)
+- Indian Institute of Information Technology, Ranchi
 
 ---
 
