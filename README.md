@@ -124,9 +124,3 @@ B.Tech – Computer Science and Engineering (DSAI)
 This project was developed as part of an assignment to demonstrate frontend development, UI design and responsive web implementation skills.
 
 ---
-
-## 📧 Contact
-
-For questions or feedback:
-- **Email:** hello@idr-global.org
-- **Form:** Use the contact form on the website
