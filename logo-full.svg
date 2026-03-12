@@ -1,0 +1,27 @@
+<svg width="500" height="120" viewBox="0 0 500 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Full logo: Icon + Text -->
+  
+  <!-- Icon (same as logo-icon.svg) -->
+  <g id="icon">
+    <path d="M60 15 L95 35 L95 75 L60 95 L25 75 L25 35 Z" fill="#000000"/>
+    <path d="M60 30 L85 43 L85 73 L60 86 L35 73 L35 43 Z" fill="#FF6B00"/>
+    <path d="M60 45 L75 53 L75 67 L60 75 L45 67 L45 53 Z" fill="#FFFFFF"/>
+    <line x1="60" y1="30" x2="60" y2="86" stroke="#000000" stroke-width="2"/>
+    <line x1="35" y1="43" x2="85" y2="73" stroke="#000000" stroke-width="1.5" opacity="0.3"/>
+    <line x1="85" y1="43" x2="35" y2="73" stroke="#000000" stroke-width="1.5" opacity="0.3"/>
+  </g>
+  
+  <!-- Text -->
+  <g id="text" fill="#000000">
+    <!-- INSTITUTE -->
+    <text x="130" y="45" font-family="Inter, sans-serif" font-size="18" font-weight="700" letter-spacing="1">INSTITUTE</text>
+    
+    <!-- OF -->
+    <text x="130" y="65" font-family="Inter, sans-serif" font-size="14" font-weight="400" letter-spacing="1" fill="#666666">OF</text>
+    
+    <!-- DIGITAL RISK -->
+    <text x="130" y="88" font-family="Inter, sans-serif" font-size="24" font-weight="800" letter-spacing="1">
+      DIGITAL <tspan fill="#FF6B00">RISK</tspan>
+    </text>
+  </g>
+</svg>

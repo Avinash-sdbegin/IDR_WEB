@@ -1,0 +1,18 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cube-inspired geometric icon representing structure, risk, and resilience -->
+  <g id="idr-logo-icon">
+    <!-- Outer cube face (darker) -->
+    <path d="M60 15 L95 35 L95 75 L60 95 L25 75 L25 35 Z" fill="#000000"/>
+    
+    <!-- Inner cube faces (orange accent - representing risk/vigilance) -->
+    <path d="M60 30 L85 43 L85 73 L60 86 L35 73 L35 43 Z" fill="#FF6B00"/>
+    
+    <!-- Core highlight (white - representing clarity/insight) -->
+    <path d="M60 45 L75 53 L75 67 L60 75 L45 67 L45 53 Z" fill="#FFFFFF"/>
+    
+    <!-- Internal structure lines (representing framework) -->
+    <line x1="60" y1="30" x2="60" y2="86" stroke="#000000" stroke-width="2"/>
+    <line x1="35" y1="43" x2="85" y2="73" stroke="#000000" stroke-width="1.5" opacity="0.3"/>
+    <line x1="85" y1="43" x2="35" y2="73" stroke="#000000" stroke-width="1.5" opacity="0.3"/>
+  </g>
+</svg>
