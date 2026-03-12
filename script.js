@@ -22,7 +22,7 @@ function scrollToSection(targetId) {
 
 	window.scrollTo({
 		top,
-		behavior: 'auto'
+		behavior: 'smooth'
 	});
 }
 
