@@ -116,6 +116,7 @@ IDR_WEB/
 
 **Avinash Kumar**  
 B.Tech – Computer Science and Engineering (DSAI)
+Indian Institute of Information Technology, Ranchi
 
 ---
 
